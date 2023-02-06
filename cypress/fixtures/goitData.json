@@ -1,0 +1,15 @@
+{
+  "credentials": {
+    "login": "user888@gmail.com",
+    "password": "1234567890"
+  },
+  "text": {
+    "button": "Przejdź do kursu",
+    "tab": "Zadanie domowe",
+    "sendAgain": "Ponownie prześlij pracę domową"
+  },
+  "api": {
+    "resendBtn": "https://api.edu.goit.global/api/v1/group/homework/isHomeworkProcessing?homeworkId=*",
+    "postHomework": "https://api.edu.goit.global/api/v1/group/homework/send"
+  }
+}
